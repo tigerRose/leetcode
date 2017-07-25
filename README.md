@@ -21,3 +21,16 @@ leetcode
 **Input**: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 
 **Output**: 7 -> 0 -> 8
+
+[002.lengthOfLongestSubstring](https://github.com/tigeroses/leetcode/blob/master/002.lengthOfLongestSubstring/README.md)
+
+给定一个字符串，找到不含重复元素的最长子串
+
+**Input** "abcabcbb"
+
+**Output** 3
+
+**Input** "bbbbb"
+
+**Output** 1
+
