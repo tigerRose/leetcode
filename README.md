@@ -34,3 +34,14 @@ leetcode
 
 **Output** 1
 
+[003.findMedianSortedArrays](https://github.com/tigeroses/leetcode/blob/master/003.findMedianSortedArrays/README.md)
+
+给定两个有序数组，长度分别m和n，寻找两个有序数组的中位数，时间复杂度要在O(log(m+n))
+
+**Input** [1, 3] [2]
+
+**Output** 2.0
+
+**Input** [1, 2] [3, 4]
+
+**Output** 2.5
