@@ -45,3 +45,15 @@ leetcode
 **Input** [1, 2] [3, 4]
 
 **Output** 2.5
+
+[004.longestPalindrome](https://github.com/tigeroses/leetcode/blob/master/004.longestPalindrome/README.md)
+
+给定字符串，找到其中最长回文
+
+**Input** "babad"
+
+**Output** "bab"
+
+**Input** "aaaa"
+
+**Output** "aaaa"

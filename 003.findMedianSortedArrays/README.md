@@ -37,6 +37,7 @@ B[0] .. B[j-1] | B[j] .. B[n-1]
 - max(left_part) <= min(right_part) -> B[j-1] <= A[i] and A[i-1] <= B[j]
 
 第一个条件，是初始化条件，即根据i的取值，可以判断j的取值；为了最快速，使用二分查找，i从m/2开始
+
 第二个条件，是循环结束条件，满足左边最大数小于右边最小，即可以求中位数；否则，如果i小，增加i，i大，减小i
 
 最后是取中位数，如果数组总数为奇数odd，则取max(left_part);否则取(max(left_part)+min(right_part)) / 2.
