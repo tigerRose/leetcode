@@ -71,3 +71,15 @@ C
 行数3
 
 **Output** AEBDFC
+
+[006.reverseInteger](https://github.com/tigeroses/leetcode/blob/master/006.reverseInteger/README.md)
+
+反转给定整数，如果超出32bit则返回0
+
+**Input** 100
+
+**Output** 1
+
+**Input** -101
+
+**Output** -101
