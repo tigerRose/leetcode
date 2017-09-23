@@ -57,3 +57,17 @@ leetcode
 **Input** "aaaa"
 
 **Output** "aaaa"
+
+[005.zigZagConvert](https://github.com/tigeroses/leetcode/blob/master/005.zigZagConvert/README.md)
+
+对ZigZag格式进行转换
+
+**Input** 
+
+A   E
+B D F
+C
+
+行数3
+
+**Output** AEBDFC
