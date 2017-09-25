@@ -83,3 +83,15 @@ C
 **Input** -101
 
 **Output** -101
+
+[007.myAtoi](https://github.com/tigeroses/leetcode/blob/master/007.myAtoi/README.md)
+
+实现atoi函数，将字符串转换为整型
+
+**Input** '123'
+
+**Output** 123
+
+**Input** '  -123cd'
+
+**Output** -123
