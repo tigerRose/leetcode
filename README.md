@@ -95,3 +95,15 @@ C
 **Input** '  -123cd'
 
 **Output** -123
+
+[008.palindromeNumber](https://github.com/tigeroses/leetcode/blob/master/008.palindromeNumber/README.md)
+
+判断数字是否符合回文规则
+
+**Input** 12321
+
+**Output** True
+
+**Input** 1231
+
+**Output** False
