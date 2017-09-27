@@ -131,3 +131,11 @@ C
 **Input** isMatch('aab', 'c\*a\*b\*')
 
 **Output** True
+
+[010.containerWithMostWater](https://github.com/tigeroses/leetcode/blob/master/010.containerWithMostWater/README.md)
+
+给一组二维坐标的点，x从1开始递增，y是随机的正整数，每个点有垂直横坐标的线段，求两条线围成的容器哪个装的水更多。
+
+**input** [1,1]
+
+**output** 1
