@@ -107,3 +107,27 @@ C
 **Input** 1231
 
 **Output** False
+
+[009.regularExpressionMatching](https://github.com/tigeroses/leetcode/blob/master/009.regularExpressionMatching/README.md)
+
+实现正则匹配的. * 功能
+
+. 表示任意的一个字符
+
+* 表示前面的单个字符重复n次，n可为0
+
+**Input** isMatch('aa', 'a')
+
+**Output** False
+
+**Input** isMatch('aa', 'aa')
+
+**Output** True
+
+**Input** isMatch('aa', 'a\*')
+
+**Output** True
+
+**Input** isMatch('aab', 'c\*a\*b\*')
+
+**Output** True
