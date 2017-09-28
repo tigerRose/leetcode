@@ -155,3 +155,11 @@ C
 **input** 'XCVII'
 
 **output** 97
+
+[013.longestCommPrefix](https://github.com/tigeroses/leetcode/blob/master/013.longestCommPrefix/README.md)
+
+查找字符串数组的最长公共前缀
+
+**input** ['abc', 'abd']
+
+**output** 'ab'
