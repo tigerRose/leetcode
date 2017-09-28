@@ -147,3 +147,11 @@ C
 **input** 97
 
 **output** 'XCVII'
+
+[012.romanToInteger](https://github.com/tigeroses/leetcode/blob/master/012.romanToInteger/README.md)
+
+罗马数字转整数
+
+**input** 'XCVII'
+
+**output** 97
