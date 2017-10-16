@@ -163,3 +163,19 @@ C
 **input** ['abc', 'abd']
 
 **output** 'ab'
+
+[014.3sum](https://github.com/tigeroses/leetcode/blob/master/014.3sum/README.md)
+
+找出数组中三个数相加为0的所有组合
+
+**input** [-2,-1,0,1,1,2,3]
+
+**output** [[-2,0,2], [-1,0,1], [-2,-1,3], [-2,1,1]]
+
+[015.threeSumCloset](https://github.com/tigeroses/leetcode/blob/master/015.threeSumCloset/README.md)
+
+找出数组中三个数相加最接近某个数的结果
+
+**input** [-1,2,1,-4]  1
+
+**output** -1+1+2 = 2
