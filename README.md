@@ -187,3 +187,11 @@ C
 **input** '23'
 
 **output** ['ad', 'ae', 'af', 'bd', 'be', 'bf', 'cd', 'ce', 'cf']
+
+[017.fourSum](https://github.com/tigeroses/leetcode/blob/master/017.fourSum/README.md)
+
+找出数组中四个数相加最接近某个数的结果
+
+**input** [1,0,-1,0,-2,2]  0
+
+**output** [[-1,1,0,0], [-2,2,0,0], [-2,2,-1,1]]
