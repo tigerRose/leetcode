@@ -179,3 +179,11 @@ C
 **input** [-1,2,1,-4]  1
 
 **output** -1+1+2 = 2
+
+[016.letterCombinations](https://github.com/tigeroses/leetcode/blob/master/016.letterCombinations/README.md)
+
+计算手机数字键盘的字符组合
+
+**input** '23'
+
+**output** ['ad', 'ae', 'af', 'bd', 'be', 'bf', 'cd', 'ce', 'cf']
